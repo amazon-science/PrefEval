@@ -70,7 +70,7 @@ pydantic==2.9.2
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 pytz==2024.2
-ray==2.37.0
+ray==2.43.0
 regex==2024.9.11
 requests==2.32.3
 safetensors==0.4.5
