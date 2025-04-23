@@ -97,7 +97,7 @@ uritemplate==4.1.1
 urllib3==2.2.2
 uvicorn==0.32.0
 uvloop==0.21.0
-vllm==0.6.3
+vllm==0.8.4
 watchfiles==0.24.0
 websockets==13.1
 xformers==0.0.27.post2
